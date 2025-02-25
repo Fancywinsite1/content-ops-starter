@@ -67,26 +67,6 @@ sections:
       type: TitleBlock
     subtitle: TheEarnifyWay.
     text: "[**The Earnify Way** ](https://thearnifyway.blogspot.com/)is your ultimate resource for online earning, investing, and SEO strategies. Whether you're a beginner or an expert, we provide valuable insights, tips, and guides to help you grow your online presence and maximize your earnings. Stay ahead in the digital world with high-quality content and backlink opportunities. \U0001F680\n\nLet me know if you want any modifications!\n\nwebsite : [https://thearnifyway.blogspot.com/ ](https://thearnifyway.blogspot.com/)\n\n\n\n"
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
     badge:
       label: TheEarnifyWay.
       color: text-primary

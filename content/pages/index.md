@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: TheEarnifyWay.
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "[**The Earnify Way** ](https://thearnifyway.blogspot.com/)is your ultimate resource for online earning, investing, and SEO strategies. Whether you're a beginner or an expert, we provide valuable insights, tips, and guides to help you grow your online presence and maximize your earnings. Stay ahead in the digital world with high-quality content and backlink opportunities. \U0001F680\n\nLet me know if you want any modifications!\n\nwebsite : [https://thearnifyway.blogspot.com/ ](https://thearnifyway.blogspot.com/)\n\n\n\n"
     actions:
       - label: Get started
         altText: ''

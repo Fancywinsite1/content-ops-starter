@@ -66,11 +66,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: TheEarnifyWay.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "[**The Earnify Way** ](https://thearnifyway.blogspot.com/)is your ultimate resource for online earning, investing, and SEO strategies. Whether you're a beginner or an expert, we provide valuable insights, tips, and guides to help you grow your online presence and maximize your earnings. Stay ahead in the digital world with high-quality content and backlink opportunities. \U0001F680\n\nLet me know if you want any modifications!\n\nwebsite : [https://thearnifyway.blogspot.com/ ](https://thearnifyway.blogspot.com/)\n\n\n\n"
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
